@@ -4,9 +4,8 @@ This is a simple blog application built using React and Vite. It allows users to
 
 ## Features
 
-- Add new blog posts with a title, content, and optional image
+- Add new blog posts with a title, date and content
 - View all blog posts on the home page
-- Responsive design for various screen sizes
 
 ## Technologies Used
 
