@@ -33,7 +33,7 @@ git clone https://github.com/sankalp51/react_blog.git
 
 2. Navigate to the project directory:
 ```bash
-cd blog
+cd react_blog
 ```
 
 3. Install dependencies
